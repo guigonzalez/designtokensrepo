@@ -8,10 +8,12 @@
   ],
   "props": {
     "COLOR_TEXT": {
-      "value": "{!PRIMARY_BRAND}"
+      "comment": "Some comment about how to use it.",
+      "value": "{!RICH_BLACK}"
     },
     "COLOR_TEXT_ALT": {
-      "value": "{!PRIMARY_BRAND}"
+      "comment": "Some comment about how to use it.",
+      "value": "{!TEXT_ALT}"
     }
   }
 }
