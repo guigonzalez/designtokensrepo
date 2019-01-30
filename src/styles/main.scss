@@ -1,7 +1,47 @@
 @import ".generated/app";
 
+html{
+  background: url("https://forumone.com/sites/default/files/images/lego.png");
+  /*background: url("https://i.pinimg.com/originals/1e/40/2f/1e402f200c8801fffd63650114920c09.jpg");
+  background: url("https://cdnb.artstation.com/p/assets/images/images/012/431/993/large/renderbricks-31024-alternate-roadster-theta-v-hdri-kitchen-180919-1611-v03a-fiat.jpg");*/
+  background-size: 100%;
+  background-position: 0px -90px;
+}
+
 body {
-  padding: $spacing-medium;
-  color: $color-text;
-  font-family: sans-serif;
+  font-family: 'Work Sans', sans-serif !important;
+  width: 20%;
+  position: relative;
+  float: right;
+  margin: 0px;
+  margin-right: 64px;
+  padding: 50px;
+  color: #000;
+  line-height: 37px;
+  max-height: 100%;
+  background-image: -webkit-gradient(linear,right top,left top,from(#ff8a00),to(#da1b60));
+  background-image: linear-gradient(to left,#ff8a00,#da1b60);
+}
+
+h1, p{
+  color: #FFF;
+}
+
+p a{
+  float: left;
+  background-color: #FFF;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 28px;
+  color: #444;
+  padding: 0px 36px;
+  border: 2px solid #fff;
+}
+
+p a:hover{
+  border: 2px solid #fff;
+  text-transform: none;
+  background: none;
+  color: #fff;
+
 }
