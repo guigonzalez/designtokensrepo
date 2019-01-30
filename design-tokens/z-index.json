@@ -1,0 +1,14 @@
+{
+   "props": {
+      "z_index_modal": {
+         "value": "9999"
+      },
+      "z_index_sticky": {
+         "value": "100"
+      }
+   },
+   "global": {
+      "type": "number",
+      "category": "z-index"
+   }
+}
