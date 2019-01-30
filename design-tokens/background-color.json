@@ -1,0 +1,36 @@
+{
+    "props": {
+        "COLOR_PRIMARY_BRAND": {
+        "comment": "Variação de cor primária da marca da Dasa",
+        "value": "{!PRIMARY_DASA}",
+        "type": "color",
+        "category": "background-color"
+        },
+        "COLOR_PRIMARY_BRAND_LIGHT": {
+        "value": "{!PRIMARY_DASA_LIGHT}",
+        "type": "color",
+        "category": "background-color"
+        },
+        "COLOR_PRIMARY_BRAND_DARK": {
+        "value": "{!PRIMARY_DASA_DARK}",
+        "type": "color",
+        "category": "background-color"
+        },
+        "COLOR_SECONDARY_BRAND": {
+        "comment": "Variação de cor secondária da marca da Dasa",
+        "value": "{!SECONDARY_DASA}",
+        "type": "color",
+        "category": "background-color"
+        },
+        "COLOR_SECONDARY_BRAND_LIGHT": {
+        "value": "{!SECONDARY_DASA_LIGHT}",
+        "type": "color",
+        "category": "background-color"
+        },
+        "COLOR_SECONDARY_BRAND_DARK": {
+        "value": "{!SECONDARY_DASA_DARK}",
+        "type": "color",
+        "category": "background-color"
+        }
+    }
+}

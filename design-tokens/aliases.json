@@ -1,17 +1,25 @@
 {
   "aliases": {
-    "PRIMARY_BRAND": "#5E43CB",
-    "SECONDARY_BRAND": "#25E9E9",
+    "PRIMARY_DASA": "#5E43CB",
+    "PRIMARY_DASA_LIGHT": "#A99BE4",
+    "PRIMARY_DASA_DARK": "#372484",
+    "SECONDARY_DASA": "#25E9E9",
+    "SECONDARY_DASA_LIGHT": "#8BF4F4",
+    "SECONDARY_DASA_DARK": "#0F9999",
     "INTERFACE": "#F8FAFC",
     "INTERFACE_DARK": "#F1F4F8",
     "INTERFACE_DARKER": "#E4E9F1",
+    "RICH_BLACK": "#001123",
+    "TEXT_ALT": "#7F8891",
     "SILVER": "#7F8891",
     "CLOUD": "#E9F3FD",
     "WARNING": "#F1C40F",
     "ERROR": "#E74C3C",
     "INFO": "#3498DB",
     "SUCCESS": "#2ECC71",
-    "ALARM": "#bc207b"
+    "ALARM": "#bc207b",
+    "DARK_PINK": "#da1b60",
+    "ORANGE": "#ff8a00"
   },
 
   "global": {

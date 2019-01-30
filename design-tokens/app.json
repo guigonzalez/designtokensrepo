@@ -2,6 +2,7 @@
   "imports": [
     "./aliases.json",
     "./border.json",
+    "./background-color.json",
     "./box-shadow.json",
     "./drop-shadow.json",
     "./font-size.json",
@@ -16,19 +17,5 @@
     "./spacing.json",
     "./text.json"
 
-  ],
-  "props": {
-    "COLOR_PRIMARY_BRAND": {
-      "comment": "Some comment about how to use it.",
-      "value": "{!PRIMARY_BRAND}",
-      "type": "color",
-      "category": "background-color"
-    },
-    "COLOR_SECONDARY_BRAND": {
-      "comment": "Some comment about how to use it.",
-      "value": "{!SECONDARY_BRAND}",
-      "type": "color",
-      "category": "background-color"
-    }
-  }
+  ]
 }
