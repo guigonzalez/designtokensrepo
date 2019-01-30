@@ -1,0 +1,35 @@
+{
+  "imports": [
+    "./aliases.json",
+    "./border.json",
+    "./box-shadow.json",
+    "./drop-shadow.json",
+    "./color.yml",
+    "./font-size.yml",
+    "./font.json",
+    "./font-weight.json",
+    "./letter-spacing.yml",
+    "./line-height.yml",
+    "./media-query.yml",
+    "./opacity.yml",
+    "./size.yml",
+    "./timing.yml",
+    "./spacing.json",
+    "./text.json"
+
+  ],
+  "props": {
+    "COLOR_PRIMARY_BRAND": {
+      "comment": "Some comment about how to use it.",
+      "value": "{!PRIMARY_BRAND}",
+      "type": "color",
+      "category": "background-color"
+    },
+    "COLOR_SECONDARY_BRAND": {
+      "comment": "Some comment about how to use it.",
+      "value": "{!SECONDARY_BRAND}",
+      "type": "color",
+      "category": "background-color"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+   "props": {
+      "shadow_s": {
+         "value": "2px 2px 2px 3px rgba(92,106,196,.1)"
+      },
+      
+      "shadow_m": {
+         "value": "3px 3px 3px 10px rgba(92,106,196,.1)"
+      }
+   },
+   "global": {
+      "type": "shadow",
+      "category": "box-shadow"
+   }
+}

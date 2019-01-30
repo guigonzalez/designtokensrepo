@@ -1,0 +1,21 @@
+{
+  "aliases": {
+    "PRIMARY_BRAND": "#5E43CB",
+    "SECONDARY_BRAND": "#25E9E9",
+    "INTERFACE": "#F8FAFC",
+    "INTERFACE_DARK": "#F1F4F8",
+    "INTERFACE_DARKER": "#E4E9F1",
+    "SILVER": "#7F8891",
+    "CLOUD": "#E9F3FD",
+    "WARNING": "#F1C40F",
+    "ERROR": "#E74C3C",
+    "INFO": "#3498DB",
+    "SUCCESS": "#2ECC71",
+    "ALARM": "#bc207b"
+  },
+
+  "global": {
+     "type": "color",
+     "category": "color"
+  }
+}

@@ -1,0 +1,15 @@
+{
+   "props": {
+      "DROP_SHADOW_S": {
+         "value": "0 0 0 3px rgba(92,106,196,0.1)"
+      },
+      
+      "DROP_SHADOW_M": {
+         "value": "3px 0 0 10px rgba(92,106,196,0.1)"
+      }
+   },
+   "global": {
+      "type": "shadow",
+      "category": "drop-shadow"
+   }
+}

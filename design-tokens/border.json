@@ -1,0 +1,43 @@
+{
+  "imports": [
+    "./aliases.json"
+  ],
+  "props": {
+    "BORDER_RADIUS_SMALL": {
+      "comment": "Some comment about how to use it.",
+      "value": "3px",
+      "type": "size",
+      "category": "radius"
+    },
+    "BORDER_RADIUS_MEDIUM": {
+      "comment": "Some comment about how to use it.",
+      "value": "5px",
+      "type": "size",
+      "category": "radius"
+    },
+    "BORDER_RADIUS_LARGE": {
+      "comment": "Some comment about how to use it.",
+      "value": "8px",
+      "type": "size",
+      "category": "radius"
+    },
+    "BORDER_RADIUS_CIRCLE": {
+      "comment": "Some comment about how to use it.",
+      "value": "50%",
+      "type": "size",
+      "category": "radius"
+    },
+    "COLOR_BORDER_SEPARATOR": {
+      "comment": "Some comment about how to use it.",
+      "value": "{!PRIMARY_BRAND}",
+      "type": "color",
+      "category": "hr-color"
+    },
+    "COLOR_BORDER": {
+      "comment": "Some comment about how to use it.",
+      "value": "{!PRIMARY_BRAND}",
+      "type": "color",
+      "category": "border-color"
+    }
+  }
+}

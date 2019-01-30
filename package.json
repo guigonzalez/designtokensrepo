@@ -1,0 +1,20 @@
+{
+  "name": "theo-example",
+  "version": "1.0.0",
+  "description": "Example on how to develop a design system using Theo.",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "connect-livereload": "^0.6.0",
+    "del": "^2.2.2",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^3.1.0",
+    "run-sequence": "^1.2.2",
+    "theo": "^5.0.0"
+  },
+  "scripts": {
+    "dev": "gulp dev",
+    "prestart": "gulp"
+  }
+}
