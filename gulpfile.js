@@ -10,6 +10,16 @@ const livereload = require('gulp-livereload')
 
 const theo = require('theo')
 
+// When passing "format" options to theo.convert(), this format can be
+// passed with an additional options object.
+let formatOptions = {
+  type: "html",
+  options: {
+    transformPropName: name => name.toUpperCase()
+  }
+};
+
+
 ////////////////////////////////////////////////////////////////////
 // Paths
 ////////////////////////////////////////////////////////////////////

@@ -1,11 +1,9 @@
 @import ".generated/app";
 
 html{
-  background: url("https://forumone.com/sites/default/files/images/lego.png");
-  /*background: url("https://i.pinimg.com/originals/1e/40/2f/1e402f200c8801fffd63650114920c09.jpg");
-  background: url("https://cdnb.artstation.com/p/assets/images/images/012/431/993/large/renderbricks-31024-alternate-roadster-theta-v-hdri-kitchen-180919-1611-v03a-fiat.jpg");*/
-  background-size: 100%;
-  background-position: 0px -90px;
+  background: url("https://3c1703fe8d.site.internapcdn.net/newman/csz/news/800/2017/introducingd.jpg") no-repeat;
+  background-size: 120%;
+  background-position: 0px 0px;
 }
 
 body {
@@ -19,15 +17,20 @@ body {
   color: #000;
   line-height: 37px;
   max-height: 100%;
-  background-image: -webkit-gradient(linear,right top,left top,from(#ff8a00),to(#da1b60));
-  background-image: linear-gradient(to left,#ff8a00,#da1b60);
+  background-image: -webkit-gradient(linear,right top,left top,from($color-primary-brand-dark),to($color-primary-brand));
+  background-image: linear-gradient(to left,$color-primary-brand-dark,$color-primary-brand);
 }
 
 h1, p{
   color: #FFF;
 }
 
-p a{
+a {
+  text-decoration: underline;
+  color: #FFF;
+}
+
+p a.btn-start{
   float: left;
   background-color: #FFF;
   text-align: center;
@@ -38,7 +41,7 @@ p a{
   border: 2px solid #fff;
 }
 
-p a:hover{
+p a.btn-start:hover{
   border: 2px solid #fff;
   text-transform: none;
   background: none;
