@@ -30,6 +30,7 @@ body{
   background-image: -webkit-gradient(linear,right top,left top,from($color-primary-brand-dark),to($color-primary-brand));
   background-image: linear-gradient(to left,$color-primary-brand-dark,$color-primary-brand);
   display: block;
+  z-index: 10;
 }
 
 h1, p{
@@ -100,11 +101,12 @@ a.btn-docs:hover{
 
 .BaseLinguage{
   background: rgba(255,255,255, 0.6);
-  width: 62%;
+  width: 100%;
   float: left;
   position: absolute;
   bottom: 90px;
   padding-bottom: 20px;
+  z-index: 0;
 }
 
 .BaseLinguage h2 {
@@ -120,12 +122,9 @@ a.btn-docs:hover{
   list-style: none;
 }
 
-
-.BaseLinguage ul li img{ filter: opacity( 0% )}
-
 .BaseLinguage ul li{
-  width: 90px;
-  height: 90px;
+  width: 50px;
+  height: 50px;
   float: left;
   margin: 0px 20px;
   background-position: 0;
