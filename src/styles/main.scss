@@ -30,6 +30,7 @@ body{
   background-image: -webkit-gradient(linear,right top,left top,from($color-primary-brand-dark),to($color-primary-brand));
   background-image: linear-gradient(to left,$color-primary-brand-dark,$color-primary-brand);
   display: block;
+  z-index: 10;
 }
 
 h1, p{
@@ -100,11 +101,12 @@ a.btn-docs:hover{
 
 .BaseLinguage{
   background: rgba(255,255,255, 0.6);
-  width: 45%;
+  width: 100%;
   float: left;
   position: absolute;
   bottom: 90px;
   padding-bottom: 20px;
+  z-index: 0;
 }
 
 .BaseLinguage h2 {
