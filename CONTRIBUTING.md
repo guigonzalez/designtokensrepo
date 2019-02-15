@@ -9,7 +9,7 @@ Você será solicitado a assiná-lo quando abrir uma solicitação de recebiment
 2. Empurre este repositório.
 3. Crie um ramo de tópico para o problema que você está tentando adicionar.
     Quando possível, você deve se ramificar da ramificação padrão.
-4. Edite o código no seu garfo.
+4. Edite o código no seu garfo. 
 5. Envie-nos uma solicitação de pull bem documentada quando terminar.
 
 # Modelo padrão de contribuição
