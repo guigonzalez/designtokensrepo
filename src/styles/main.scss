@@ -1,7 +1,15 @@
+/*
+  Modelo de Desenvolvimento de Design Tokens utilizando o Gulp Theo da Salesforce
+  2019 - Todos os direitos autorais reservados:
+  Guilherme Gonzalez e Alan Fernandes
+*/
+
 @import ".generated/app";
 
 html{
-  background: url("https://3c1703fe8d.site.internapcdn.net/newman/csz/news/800/2017/introducingd.jpg") no-repeat;
+  background: url("https://forumone.com/sites/default/files/images/lego.png") no-repeat;
+
+
   background-size: 120%;
   background-position: 0px 0px;
 }
@@ -27,8 +35,8 @@ body{
   padding: 70px 50px;
   line-height: 34px;
   max-height: 100%;
-  background-image: -webkit-gradient(linear,right top,left top,from($color-primary-brand-dark),to($color-primary-brand));
-  background-image: linear-gradient(to left,$color-primary-brand-dark,$color-primary-brand);
+  background-image: -webkit-gradient(linear, right top, left top, from(#FF0000), to(#FF8C00));
+  background-image: linear-gradient(to left, #FF0000, #FF8C00);
   display: block;
   z-index: 10;
 }
@@ -57,7 +65,7 @@ a.btn-start{
   text-align: center;
   text-decoration: none;
   margin-top: 28px;
-  color: #372484;
+  color:#FF0000;
   padding: 0px 16px;
   border: 2px solid #fff;
   margin: 0px 5px;
@@ -100,7 +108,7 @@ a.btn-docs:hover{
 /* LOGO DAS LINGUAGENS DE PROGRAMAÇÃO */
 
 .BaseLinguage{
-  background: rgba(255,255,255, 0.6);
+  background: rgba(255,255,255, 0.8);
   width: 100%;
   float: left;
   position: absolute;
