@@ -8,8 +8,6 @@
 
 html{
   background: url("https://forumone.com/sites/default/files/images/lego.png") no-repeat;
-
-
   background-size: 120%;
   background-position: 0px 0px;
 }
@@ -41,6 +39,16 @@ body{
   z-index: 10;
 }
 
+h1{
+  background-size: 24%;
+  background-position: -4px 0px;
+  background-repeat: no-repeat;
+}
+
+h1 b{
+  font-size: 32px;
+}
+
 h1, p{
   color: #FFF;
   font-size: 21px;
@@ -52,6 +60,7 @@ p{
   width: 100%;
   float: left;
   display: block;
+  padding-bottom: 45px;
 }
 
 a {
