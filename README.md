@@ -30,7 +30,7 @@ as atualizações são refletidas também em tempo real.
 
 ## Créditos
 
-Modelo de Desenvolvimento de Design Tokens utilizando o Gulp Theo da Salesforce.
+Modelo de Desenvolvimento de Design Tokens utilizando o Gulp Theo da Salesforce. 
 
 Guilherme Gonzalez.
 (https://www.linkedin.com/in/guigonzalez/)
