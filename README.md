@@ -1,4 +1,4 @@
-# Dasa Design Tokens
+# Design Tokens
 
 Exemplo de projeto para integrar Tokens de Design usando [theo](https://github.com/salesforce-ux/theo).
 
@@ -30,12 +30,12 @@ as atualizações são refletidas também em tempo real.
 
 ## Créditos
 
-Modelo de Desenvolvimento de Design Tokens utilizando o Gulp Theo da Salesforce
+Modelo de Desenvolvimento de Design Tokens utilizando o Gulp Theo da Salesforce.
 
-Guilherme Gonzalez
+Guilherme Gonzalez.
 https://www.linkedin.com/in/guigonzalez/
 
-Alan Fernandes
+Alan Fernandes.
 https://www.linkedin.com/in/alanfernandesti/
 
 2019 - Todos os direitos autorais reservados:
