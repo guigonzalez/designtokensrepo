@@ -1,6 +1,6 @@
 # Design Tokens
 
-Exemplo de projeto para integrar Tokens de Design usando [theo](https://github.com/salesforce-ux/theo).
+Exemplo de projeto para integrar Tokens de Design usando [Gulp-Theo] da Salesforce (https://github.com/salesforce-ux/theo).
 
 ## Instalação
 
@@ -33,9 +33,9 @@ as atualizações são refletidas também em tempo real.
 Modelo de Desenvolvimento de Design Tokens utilizando o Gulp Theo da Salesforce.
 
 Guilherme Gonzalez.
-https://www.linkedin.com/in/guigonzalez/
+(https://www.linkedin.com/in/guigonzalez/)
 
 Alan Fernandes.
-https://www.linkedin.com/in/alanfernandesti/
+(https://www.linkedin.com/in/alanfernandesti/)
 
 2019 - Todos os direitos autorais reservados:
